@@ -39,3 +39,4 @@ nb-configuration.xml
 .env
 
 apache*.tar.gz
+src-old
